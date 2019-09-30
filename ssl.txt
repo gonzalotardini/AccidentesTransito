@@ -1,0 +1,4 @@
+php bin/acme issue --domains accidentesyart.com.ar:www.accidentesyart.com.ar --path /home/u559353003/domains/accidentesyart.com.ar/public_html:/home/u559353003/domains/accidentesyart.com.ar/public_html --server letsencrypt
+
+
+cd /home/u559353003/acme-client/data/certs/acme-v01.api.letsencrypt.org.directory/accidentesyart.com.ar
